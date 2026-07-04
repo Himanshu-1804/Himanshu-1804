@@ -1,6 +1,9 @@
 ## Hi there 👋
 
-## I'm Himanshu, a CS student interested in programming & software development.
+## I'm Himanshu Panchal,
+
+I'm a CS student interested in programming & software development. Web development caught my attention in 8th grade, when I learned HTML to make a mock-up for a cricket league. It was further solidified when I used Python & MySQL to build a movie ticket booking system. I've never looked back since then.
+
 
 <!--
 **Himanshu-1804/Himanshu-1804** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
