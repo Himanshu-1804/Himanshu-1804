@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+## I'm Himanshu, a CS student interested in programming & software development.
+
 <!--
 **Himanshu-1804/Himanshu-1804** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
