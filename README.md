@@ -12,6 +12,8 @@ I'm a CS student interested in programming & software development. Web developme
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![F#](https://img.shields.io/badge/F%23-378BBA?style=for-the-badge&logo=sharp&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
@@ -39,6 +41,7 @@ I'm a CS student interested in programming & software development. Web developme
 - I served as a Peer Mentor For [CodePath](https://www.codepath.org/) in Fall 2025. I mentored first-time CodePath students, providing semester-long guidance that contributed to an increased retention rate in their first course.
 
 ## Lore On Me
+
 _Outside of code & work, I like to capture timeless moments._
 
 <img src="462.png" width="200" alt="my dogs as puppies">
